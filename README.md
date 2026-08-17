@@ -47,7 +47,7 @@ LIMIT 10 ;
 - Wide Salary Range: The salaries range from $184,000 to $650,000/year, showing a significant earning potential across Data Analyst roles.
 - Remote Opportunities: All 10 positions in this result were listed as "Anywhere", highlighting the presence of highly paid remote opportunities in the Data Analyst market.
 
-![Top Paying Roles](assets\top_paying_jobs.png.png)
+![Top Paying Roles](assets\top_paying_jobs.PNG.PNG)
 **Note:** *Bar Graph visualizing the salary for the the top 10 salaries for data analyts where developed with the assistance of ChatGPT, based on SQL queries and analysis created by me.*
 
 ### 2. Most Common Skills in High-Paying Data Analyst Jobs?
