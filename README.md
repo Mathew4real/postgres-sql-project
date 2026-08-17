@@ -47,7 +47,7 @@ LIMIT 10 ;
 - Wide Salary Range: The salaries range from $184,000 to $650,000/year, showing a significant earning potential across Data Analyst roles.
 - Remote Opportunities: All 10 positions in this result were listed as "Anywhere", highlighting the presence of highly paid remote opportunities in the Data Analyst market.
 
-![Top Paying Roles](assets\top_paying_jobs.PNG.PNG)
+![Top Paying Roles](https://github.com/Mathew4real/postgres-sql-project/blob/a0c80a10e518d6f24035167c315efa7277ba55b7/assets/top_paying_jobs.png.png)
 **Note:** *Bar Graph visualizing the salary for the the top 10 salaries for data analyts where developed with the assistance of ChatGPT, based on SQL queries and analysis created by me.*
 
 ### 2. Most Common Skills in High-Paying Data Analyst Jobs?
@@ -91,7 +91,7 @@ LIMIT 10 ;
 - **Python** is Highly Relevant: Python appears in 9 out of 10 positions, showing that programming skills are strongly represented in high-paying Data Analyst jobs.
 - **Data Visualization**: Tableau appears in 6 out of 10 positions, while Power BI appears in 3 positions, showing that visualization and BI tools are important for communicating data insights.
 
-![img](assets\most_comun_skills.png)
+![img](https://github.com/Mathew4real/postgres-sql-project/blob/a0c80a10e518d6f24035167c315efa7277ba55b7/assets/most_comun_skills.png)
 **Note:** *Bar Graph visualizing the salary for the the top 10 salaries for data analyts where developed with the assistance of ChatGPT, based on SQL queries and analysis created by me.*
 
 ### 3. What are the Most In-Demand Data Analyst Skills?
