@@ -91,7 +91,7 @@ LIMIT 10 ;
 - **Python** is Highly Relevant: Python appears in 9 out of 10 positions, showing that programming skills are strongly represented in high-paying Data Analyst jobs.
 - **Data Visualization**: Tableau appears in 6 out of 10 positions, while Power BI appears in 3 positions, showing that visualization and BI tools are important for communicating data insights.
 
-![Top Paying Roles](assets\most_comun_skills.png)
+![img](assets\most_comun_skills.png)
 **Note:** *Bar Graph visualizing the salary for the the top 10 salaries for data analyts where developed with the assistance of ChatGPT, based on SQL queries and analysis created by me.*
 
 ### 3. What are the Most In-Demand Data Analyst Skills?
@@ -151,7 +151,7 @@ LIMIT 25
 
 - Strong Salary Potential: All 25 skills in the analysis are associated with average salaries above $121,000, indicating that these skills appear in relatively high-paying Data Analyst opportunities.
 
-![Top Paying Roles](assets\high_paying_skills.png)
+![img](assets\high_paying_skills.png)
 **Note:** *Bar Graph visualizing the salary for the the top 10 salaries for data analyts where developed with the assistance of ChatGPT, based on SQL queries and analysis created by me.*
 
 # What I learned 
