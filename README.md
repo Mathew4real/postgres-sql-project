@@ -151,7 +151,8 @@ LIMIT 25
 - Strong Salary Potential: All 25 skills in the analysis are associated with average salaries above $121,000, indicating that these skills appear in relatively high-paying Data Analyst opportunities.
 
 ![img](https://github.com/Mathew4real/postgres-sql-project/blob/1d54072c29da594a132537cefaa841094edd485d/assets/high_paying_skills.png)
-**Note:** *Bar Graph visualizied where developed with the assistance of ChatGPT, based on SQL queries and analysis created by me.*
+**Note:**
+*Bar Graph visualizied where developed with the assistance of ChatGPT, based on SQL queries and analysis created by me.*
 
 # What I learned 
 Through this project, I strengthened my SQL and data analysis skills by working with a real-world job postings dataset.
