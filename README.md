@@ -92,8 +92,7 @@ LIMIT 10 ;
 - **Data Visualization**: Tableau appears in 6 out of 10 positions, while Power BI appears in 3 positions, showing that visualization and BI tools are important for communicating data insights.
 
 ![img](https://github.com/Mathew4real/postgres-sql-project/blob/a0c80a10e518d6f24035167c315efa7277ba55b7/assets/most_comun_skills.png)
-**Note:** *Bar Graph visualizing the salary for the the top 10 salaries for data analyts where developed with the assistance of ChatGPT, based on SQL queries and analysis created by me.*
-
+**Note:** *Bar Graph visualizied where developed with the assistance of ChatGPT, based on SQL queries and analysis created by me.*
 ### 3. What are the Most In-Demand Data Analyst Skills?
 ```sql
 SELECT 
@@ -128,7 +127,7 @@ ORDER BY  skill_count DESC
 | 183      | power bi | 2609        |
 
 *table of the demmand of 5 skills in data anakyst jobs*
-
+### 3. What are the top paying skills Data Analyst jobs ?
 ```sql
 SELECT 
     skills_dim.skills,
@@ -152,7 +151,7 @@ LIMIT 25
 - Strong Salary Potential: All 25 skills in the analysis are associated with average salaries above $121,000, indicating that these skills appear in relatively high-paying Data Analyst opportunities.
 
 ![img](https://github.com/Mathew4real/postgres-sql-project/blob/1d54072c29da594a132537cefaa841094edd485d/assets/high_paying_skills.png)
-**Note:** *Bar Graph visualizing the salary for the the top 10 salaries for data analyts where developed with the assistance of ChatGPT, based on SQL queries and analysis created by me.*
+**Note:** *Bar Graph visualizied where developed with the assistance of ChatGPT, based on SQL queries and analysis created by me.*
 
 # What I learned 
 Through this project, I strengthened my SQL and data analysis skills by working with a real-world job postings dataset.
