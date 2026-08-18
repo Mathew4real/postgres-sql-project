@@ -152,6 +152,7 @@ LIMIT 25
 
 ![img](https://github.com/Mathew4real/postgres-sql-project/blob/1d54072c29da594a132537cefaa841094edd485d/assets/high_paying_skills.png)
 **Note:**
+
 *Bar Graph visualizied where developed with the assistance of ChatGPT, based on SQL queries and analysis created by me.*
 
 # What I learned 
